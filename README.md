@@ -1,1 +1,1 @@
-LIVE DEMO: https://2021goodday.github.io/calculator/
+SITE: https://2021goodday.github.io/calculator/
